@@ -1,0 +1,17 @@
+C:\Users\jarat\Documents\PatternDesign\bin\Debug\net6.0\PatternDesign.exe
+C:\Users\jarat\Documents\PatternDesign\bin\Debug\net6.0\PatternDesign.deps.json
+C:\Users\jarat\Documents\PatternDesign\bin\Debug\net6.0\PatternDesign.runtimeconfig.json
+C:\Users\jarat\Documents\PatternDesign\bin\Debug\net6.0\PatternDesign.dll
+C:\Users\jarat\Documents\PatternDesign\bin\Debug\net6.0\PatternDesign.pdb
+C:\Users\jarat\Documents\PatternDesign\obj\Debug\net6.0\PatternDesign.csproj.AssemblyReference.cache
+C:\Users\jarat\Documents\PatternDesign\obj\Debug\net6.0\PatternDesign.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jarat\Documents\PatternDesign\obj\Debug\net6.0\PatternDesign.AssemblyInfoInputs.cache
+C:\Users\jarat\Documents\PatternDesign\obj\Debug\net6.0\PatternDesign.AssemblyInfo.cs
+C:\Users\jarat\Documents\PatternDesign\obj\Debug\net6.0\PatternDesign.csproj.CoreCompileInputs.cache
+C:\Users\jarat\Documents\PatternDesign\obj\Debug\net6.0\PatternDesign.dll
+C:\Users\jarat\Documents\PatternDesign\obj\Debug\net6.0\refint\PatternDesign.dll
+C:\Users\jarat\Documents\PatternDesign\obj\Debug\net6.0\PatternDesign.pdb
+C:\Users\jarat\Documents\PatternDesign\obj\Debug\net6.0\PatternDesign.genruntimeconfig.cache
+C:\Users\jarat\Documents\PatternDesign\obj\Debug\net6.0\ref\PatternDesign.dll
+C:\Users\jarat\Documents\PatternDesign\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\jarat\Documents\PatternDesign\obj\Debug\net6.0\PatternDesign.csproj.CopyComplete
